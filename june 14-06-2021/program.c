@@ -12,3 +12,15 @@ printf("ch1=%d\n",ch1);
 printf("ch2=%d\n",ch2);
 printf("ch3=%d\n",ch3);
 }
+
+
+/*
+
+output: 
+A
+b 
+3
+65
+98
+51
+*/
